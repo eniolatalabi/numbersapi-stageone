@@ -41,5 +41,5 @@ This project is a Node.js and Express-based API that accepts a number via a quer
 }
 
 ### Deployment
-The API is currently deployed using Render, as it is a platform that supports Node.js. Follow the platform-specific instructions to deploy your application.
+The API is currently deployed using Render, as it is a platform that supports Node.js.
 
